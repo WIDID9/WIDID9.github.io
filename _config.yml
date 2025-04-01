@@ -103,4 +103,4 @@ theme: hexo-theme-fluid
 deploy:
   type: git
   repo: https://github.com/WIDID9/WIDID9.github.io.git
-  branch: main
+  branch: gh-pages
