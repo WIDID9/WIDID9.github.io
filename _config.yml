@@ -102,5 +102,5 @@ theme: hexo-theme-fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/WIDID9/WIDID9.github.io.git
+  repo: https://github.com/WIDID9/jiang.github.io.git
   branch: gh-pages
